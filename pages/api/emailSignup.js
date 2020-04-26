@@ -1,5 +1,5 @@
 const Airtable = require('airtable');
-const base = new Airtable({apiKey: ''}).base('app6hmJnclyWQJLPn');
+const base = new Airtable({apiKey: process.env.AIRTABLE_API_KEY}).base('app6hmJnclyWQJLPn');
 
 export default async (req, res) => {
 	return new Promise(resolve => {

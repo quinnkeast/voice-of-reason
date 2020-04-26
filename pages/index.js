@@ -147,8 +147,8 @@ export default function Home() {
           <Grid>
             <Cell className="centred">
               <h3>Share a story</h3>
-              <p>We want to hear about your experiences  with change in your organization. Share a story with us, good or bad, we’ll be in touch.</p>
-              <a href="mailto:hey@voiceofreason.tech">hey@voiceofreason.tech</a>
+              <p>We want to hear about your experiences with change in your organization. Share a story with us, good or bad, we’ll be in touch.</p>
+              <a href="mailto:jen@caribou.co">jen@caribou.co</a>
             </Cell>
             <Cell className="centred">
               <h3>Sign up for occasional emails</h3>
